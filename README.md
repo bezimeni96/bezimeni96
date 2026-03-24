@@ -39,10 +39,12 @@ Focused on performance, type-safety, and scalable architecture. I specialize in 
 #### **Testing & Deployment**
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 #### **AI-First Workflow**
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 ![Lovable](https://img.shields.io/badge/-Lovable-FF4F00?style=flat-square)
 ![Bolt.new](https://img.shields.io/badge/-Bolt.new-orange?style=flat-square)
 ![MCP](https://img.shields.io/badge/-MCP-blueviolet?style=flat-square)
@@ -51,7 +53,7 @@ Focused on performance, type-safety, and scalable architecture. I specialize in 
 ---
 
 ### 💡 Current Focus
-* 🏃 **SerbiaRun Platform (Co-founder):** Leading the technical architecture and mobile tracking integration for the national running community.
+**SerbiaRun Platform (Co-founder):** Leading the technical architecture and mobile tracking integration for the national running community.
 
 ---
 
