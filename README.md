@@ -51,10 +51,12 @@ Focused on performance, type-safety, and scalable architecture. I specialize in 
 ---
 
 ### 💡 Current Focus
-* 🏃 **SerbiaRun Platform:** Leading the technical architecture and mobile tracking integration for the national running community.
+* 🏃 **SerbiaRun Platform (Co-founder):** Leading the technical architecture and mobile tracking integration for the national running community.
 
 ---
 
-<!-- <div align="center">
-  <i>"Turning non-trivial problems into production-ready products."</i>
-</div> -->
+<div align="center">
+
+### *“Product-oriented Engineer turning ideas into production-ready products”*
+
+</div>
